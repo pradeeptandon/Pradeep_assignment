@@ -1,0 +1,1 @@
+Namespace(batch_size=4, data_dir='./data', exp_name='resnet_Data_norm_Sample_Equalization', log_level='INFO', network='resnet', num_epochs=10, train_fraction=0.8, val_fraction=0.2)

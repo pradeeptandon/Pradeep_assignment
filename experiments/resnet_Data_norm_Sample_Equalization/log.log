@@ -1,0 +1,4 @@
+2019-09-10 04:42:45,428 INFO  __main__        - Log file is experiments/resnet_Data_norm_Sample_Equalization/log.log
+2019-09-10 04:42:45,433 INFO  __main__        - ==> Preparing data..
+2019-09-10 04:42:53,580 INFO  __main__        - ==> Building model..
+2019-09-10 04:43:03,406 INFO  __main__        - Epoch: 0

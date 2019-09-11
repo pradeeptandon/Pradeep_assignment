@@ -1,0 +1,1 @@
+Namespace(batch_size=4, data_dir='./data', exp_name='Densenet_Data_norm_Sample_Equalization_1', log_level='INFO', network='densenet', num_epochs=10, train_fraction=0.8, val_fraction=0.2)

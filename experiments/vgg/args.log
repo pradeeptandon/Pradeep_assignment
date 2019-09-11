@@ -1,0 +1,1 @@
+Namespace(batch_size=4, data_dir='./data', exp_name='vgg', log_level='INFO', network='vgg', num_epochs=10, train_fraction=0.8, val_fraction=0.2)
